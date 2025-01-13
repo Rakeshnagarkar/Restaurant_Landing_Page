@@ -1,8 +1,10 @@
-# React + Vite
+#Restaurant Landing Page
+This project showcases a beautifully designed restaurant landing page inspired by European aesthetics. The page combines elegant typography, clean layouts, and visually appealing imagery to create an inviting user experience. It highlights:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sophisticated Design: A sleek and modern interface reflecting European charm.
+Key Features: Sections for menu highlights, restaurant story, customer testimonials, and contact details.
+Responsiveness: Fully optimized for seamless viewing on desktop, tablet, and mobile devices.
+Interactive Elements: Call-to-action buttons for reservations, vibrant visuals, and hover effects to enhance engagement.
+Purpose: To provide potential customers with a delightful first impression and easy access to restaurant details.
+This project emphasizes both aesthetics and functionality, making it a perfect example of a professional-grade landing page tailored to attract and retain customers.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
