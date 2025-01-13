@@ -1,6 +1,6 @@
 ### Restaurant Landing Page
 
-#### Tech Stack: ##### ReactJs, TailwindCss, Framer-Motion
+#### Tech Stack: ReactJs, TailwindCss, Framer-Motion
 
 This project is a beautifully crafted landing page inspired by the charm and elegance of European aesthetics. The design emphasizes clean layouts, sophisticated typography, and visually stunning imagery to create an inviting user experience. Below are the key highlights of the project:  
 
