@@ -2,6 +2,7 @@ import React from "react";
 import video from "../assets/hero.mp4";
 import logo from "../assets/logo.png";
 import {motion} from 'framer-motion'
+import hero from "../assets/hero.jpeg"
 
 function HeroSection() {
   return (
@@ -14,6 +15,7 @@ function HeroSection() {
           autoPlay
           loop
           playsInline
+          poster={hero}
           aria-hidden="true"
         />
       </div>
