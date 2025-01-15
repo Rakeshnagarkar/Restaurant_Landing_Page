@@ -13,7 +13,7 @@ function Footer() {
             ))}
         </div>
         <p className='mt-8 text-center tracking-tighter text-neutral-500'>
-            &copy; Rockin’ Devs. All right reserved
+            &copy; RakeshNagarkar. All right reserved
         </p>
     </div>
   )
